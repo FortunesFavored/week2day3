@@ -8,3 +8,5 @@ def get_area():
 def get_area_circ():
     r = int(input('What is the radius? '))
     return math.pi*r**2
+
+# asd
